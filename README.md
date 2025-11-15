@@ -1,16 +1,50 @@
-# Tetris Game
+# Tetris OG 🎮
 
-Este projeto é uma versão simples do clássico jogo Tetris, desenvolvido com HTML, CSS e JavaScript. O objetivo é praticar lógica de programação, manipulação de elementos gráficos e controle de eventos no navegador.
+A classic Tetris game built with **Python** and **Pygame**.
 
-## Funcionalidades
+---
 
-- Geração aleatória de peças
-- Movimento lateral e rotação das peças
-- Detecção de colisões
-- Remoção de linhas completas
-- Contador de pontos
-- Game over automático
+## Features
 
-## Como executar
+- Customizable grid and block sizes 🟦  
+- Smooth piece rotation and collision detection 🔄  
+- Score tracking and line clearing system 💯  
+- Pause and restart functionality ⏸️🔁  
+- Next-piece preview for better gameplay 🟩  
 
-1. Clone o repositório:
+---
+
+## Installation
+
+1. Clone the repository:
+git clone
+```
+https://github.com/YOUR_USERNAME/tetris.git
+```
+Install dependencies:
+
+```
+pip install pygame
+```
+Run the game:
+```
+python tetris.py
+```
+Usage
+Arrow keys to move pieces left/right
+
+Up arrow to rotate
+
+Down arrow or Space for faster drop
+
+Click Pause button to pause
+
+Click Close button to exit
+
+Credits
+Developed by Lorenzo Accasto
+
+Special thanks to: Eduardo Augusto, Luan Pereira, Pedro Lucas
+
+License
+This project is MIT Licensed.
